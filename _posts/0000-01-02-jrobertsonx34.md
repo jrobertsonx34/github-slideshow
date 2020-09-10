@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Witty meme title!"
 ---
-Hi Welcome to Jamie's Second slide.  Great work!
+Witty meme.  Great work!
 Use the left arrow to go back!
